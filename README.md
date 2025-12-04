@@ -4,7 +4,7 @@ This repository implements a multi-page frontend that mimics the behavior and ap
 The project follows all specifications from CS50W Project 0, including navigation links, page styling, query forwarding, and the “I’m Feeling Lucky” feature.
 
 ## Live Demo
-https://matheusesilva.github.io/google-search/
+[https://matheusesilva.github.io/google-search/](https://matheusesilva.github.io/google-search-page/)
 
 ## Features
 
